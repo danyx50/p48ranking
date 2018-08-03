@@ -1,38 +1,38 @@
-Name,Company,Level Audition,Re-Evaluation,note,ep1,ep1.5,ep2,ep3,ep5,ep6,ep8,ep10,ep11
-Miyawaki Sakura,HKT48,A,A,,1,5,5,3,4,-,-,-
-Ahn Yujin,Starship,B,A,,2,2,2,2,2,-,-,-
-Jang Wonyoung,Starship,B,B,,3,3,4,4,3,-,-,-
-Matsui Jurina,SKE48,B,B,,4,11,12,12,13,-,-,-
-Lee Kaeun,Pledis,A,A,,5,1,1,1,1,-,-,-
+Name,Company,Level Audition,Re-Evaluation,note,ep1,ep1.5,ep2,ep3,ep5,ep8,ep10,ep11
+Miyawaki Sakura,HKT48,A,A,,1,5,5,3,4,-,-
+Ahn Yujin,Starship,B,A,,2,2,2,2,2,-,-
+Jang Wonyoung,Starship,B,B,,3,3,4,4,3,-,-
+Matsui Jurina,SKE48,B,B,,4,11,12,12,13,-,-
+Lee Kaeun,Pledis,A,A,,5,1,1,1,1,-,-
 Jang Gyuri,Stone Music,B,F,,6,14,14,14,17,26,-,-
-Choi Yena,Yuehua,A,B,,7,6,6,7,9,-,-,-
-Lee Sian, Stone Music,C,D,,8,16,18,27,23,23,19,-,-
-Shiroma Miru,NMB48,B,D,,9,23,22,13,16,-,-,-
-Jo Yuri,Stone Music,A,F,,10,18,19,18,19,-,-,-
-Wang Yiren,Yuahua,B,C,,11,7,7,9,8,-,-,-
-Kojima Mako,AKB48,C,B,,12,22,23,25,31,-,-,-
-Kim Minju,Urban Works,D,C,,13,17,17,19,15,-,-,-
-Yabuki Nako,HK48,F,A,,14,28,27,16,7,-,-,-
-Kim Sihyun,Yuehua,B,A,,15,13,13,17,20,24,-,-
-Goto Moe,AKB48,F,C,,16,9,8,6,6,28,-,-
-Miyazaki Miho,AKB48,D,D,,17,19,16,15,21,27,-,-
-Bae Eunyoung,Stone Music,C,B,,18,27,30,34,37,-,-,-
-Heo Yunjin,Pledis,C,F,,19,15,15,21,22,-,-,-
-Takahashi Juri,AKB48,B,A,,20,33,29,20,18,20,-,-
-Kim Chaewon,Woolim,B,B,,21,20,21,30,28,-,-,-
-Nakanishi Chiyori,AKB48,D,C,,22,38,37,40,39,-,-,-
-Mutu Tomu,AKB48,D,D,,23,29,28,32,33,-,-,-
-Go Yujin,BlockBerry Creative,C,A,,24,30,34,26,26,-,-,-
-Kwon Eunbi,Woolim,A,C,,25,4,3,5,5,-,-,-
-Asai Nanami,AKB48,F,D,,26,41,41,42,46,-,-,-
-Chiba Erii,AKB48,F,F,,27,40,38,23,24,-,-,-
-Murakawa Bibian,HKT48,F,F,,28,31,31,29,30,-,-,-
-Lee Chaeyeon,WM Ent.,A,A,,29,10,10,10,10,-,-,-
-Honda Hitomi,AKB48,C,A,,30,46,47,22,12,-,-,-
-Kim Doah,FENT,A,C,,31,25,25,31,34,23,-,-
-Murase Sae,NMB48,D,C,,32,44,43,45,40,25,-,-
-Lee Yujeong,CNC,C,C,,33,45,48,48,49,-,-,-
-Park Seoyoung,Individual Trainee,C,D,,34,24,26,35,42,-,-,-
+Choi Yena,Yuehua,A,B,,7,6,6,7,9,-,-
+Lee Sian, Stone Music,C,D,,8,16,18,27,23,23,19,-
+Shiroma Miru,NMB48,B,D,,9,23,22,13,16,-,-
+Jo Yuri,Stone Music,A,F,,10,18,19,18,19,-,-
+Wang Yiren,Yuahua,B,C,,11,7,7,9,8,-,-
+Kojima Mako,AKB48,C,B,,12,22,23,25,31,-,-
+Kim Minju,Urban Works,D,C,,13,17,17,19,15,-,-
+Yabuki Nako,HK48,F,A,,14,28,27,16,7,-,-
+Kim Sihyun,Yuehua,B,A,,15,13,13,17,20,24,-
+Goto Moe,AKB48,F,C,,16,9,8,6,6,28,-
+Miyazaki Miho,AKB48,D,D,,17,19,16,15,21,27,-
+Bae Eunyoung,Stone Music,C,B,,18,27,30,34,37,-,-
+Heo Yunjin,Pledis,C,F,,19,15,15,21,22,-,-
+Takahashi Juri,AKB48,B,A,,20,33,29,20,18,20,-
+Kim Chaewon,Woolim,B,B,,21,20,21,30,28,-,-
+Nakanishi Chiyori,AKB48,D,C,,22,38,37,40,39,-,-
+Mutu Tomu,AKB48,D,D,,23,29,28,32,33,-,-
+Go Yujin,BlockBerry Creative,C,A,,24,30,34,26,26,-,-
+Kwon Eunbi,Woolim,A,C,,25,4,3,5,5,-,-
+Asai Nanami,AKB48,F,D,,26,41,41,42,46,-,-
+Chiba Erii,AKB48,F,F,,27,40,38,23,24,-,-
+Murakawa Bibian,HKT48,F,F,,28,31,31,29,30,-,-
+Lee Chaeyeon,WM Ent.,A,A,,29,10,10,10,10,-,-
+Honda Hitomi,AKB48,C,A,,30,46,47,22,12,-,-
+Kim Doah,FENT,A,C,,31,25,25,31,34,23,-
+Murase Sae,NMB48,D,C,,32,44,43,45,40,25,-
+Lee Yujeong,CNC,C,C,,33,45,48,48,49,-,-
+Park Seoyoung,Individual Trainee,C,D,,34,24,26,35,42,-,-
 Matsuoka Natsumi,HKT48,F,C,,35,55,55,52,67,-,-,-
 Na Goeun,RBW,A,A,,36,21,20,28,29,-,-,-
 Motomura Aoi,HKT48,D,B,,37,43,42,36,44,-,-,-
