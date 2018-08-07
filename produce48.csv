@@ -1,20 +1,20 @@
 Name,Company,Level Audition,Re-Evaluation,note,ep1,ep1.5,ep2,ep3,ep5,ep8,ep8.5,ep10
 Miyawaki Sakura,HKT48,A,A,To You,1,5,5,3,4,7,1
 Ahn Yujin,Starship,B,A,I Am,2,2,2,2,2,4,17
-Jang Wonyoung,Starship,B,B,,3,3,4,4,3,1,8
+Jang Wonyoung,Starship,B,B,Rollin Rollin,3,3,4,4,3,1,8
 Matsui Jurina,SKE48,B,B,Withdrew,4,11,12,12,13,-,-
 Lee Kaeun,Pledis,A,A,I Am,5,1,1,1,1,7,5
 Jang Gyuri,Stone Music,B,F,To You,6,14,14,14,17,26,23
 Choi Yena,Yuehua,A,B,I Am,7,6,6,7,9,16,18
 Lee Sian, Stone Music,C,D,Rumor,8,16,18,27,23,19,29
-Shiroma Miru,NMB48,B,D,,9,23,22,13,16,13,14
+Shiroma Miru,NMB48,B,D,Rollin Rollin,9,23,22,13,16,13,14
 Jo Yuri,Stone Music,A,F,To You,10,18,19,18,19,10,16
 Wang Yiren,Yuahua,B,C,,11,7,7,9,8,14,28
 Kojima Mako,AKB48,C,B,,12,22,23,25,31,34,-
 Kim Minju,Urban Works,D,C,To You,13,17,17,19,15,6,22
 Yabuki Nako,HK48,F,A,To You,14,28,27,16,7,2,7
 Kim Sihyun,Yuehua,B,A,Rumor,15,13,13,17,20,24,30
-Goto Moe,AKB48,F,C,,16,9,8,6,6,28,25
+Goto Moe,AKB48,F,C,Rollin Rollin,16,9,8,6,6,28,25
 Miyazaki Miho,AKB48,D,D,1000%,17,19,16,15,21,27,3
 Bae Eunyoung,Stone Music,C,B,,18,27,30,34,37,36,-
 Heo Yunjin,Pledis,C,F,I Am,19,15,15,21,22,11,26
@@ -28,8 +28,8 @@ Asai Nanami,AKB48,F,D,,26,41,41,42,46,42,-
 Chiba Erii,AKB48,F,F,,27,40,38,23,24,33,-
 Murakawa Bibian,HKT48,F,F,,28,31,31,29,30,45,-
 Lee Chaeyeon,WM Ent.,A,A,,29,10,10,10,10,17,10
-Honda Hitomi,AKB48,C,A,,30,46,47,22,12,12,9
-Kim Doah,FENT,A,C,,31,25,25,31,34,23,21
+Honda Hitomi,AKB48,C,A,Rollin Rollin,30,46,47,22,12,12,9
+Kim Doah,FENT,A,C,Rollin Rollin,31,25,25,31,34,23,21
 Murase Sae,NMB48,D,C,Rumor,32,44,43,45,40,25,24
 Lee Yujeong,CNC,C,C,,33,45,48,48,49,51,-
 Park Seoyoung,Individual Trainee,C,D,,34,24,26,35,42,55,-
@@ -53,7 +53,7 @@ Lee Haeun,MNH,A,A,,51,58,58,33,35,48,-
 Park Jinny,Individual Trainee,C,F,,52,48,49,61,69,-,-,-
 Imada Mina,HKT48,D,C,,53,64,64,67,76,-,-,-
 Yoon Eunbin,CNC,B,B,,54,68,68,65,65,-,-,-
-Kim Nayoung,Banana Culture,C,A,,55,62,63,58,38,21,20
+Kim Nayoung,Banana Culture,C,A,Rollin Rollin,55,62,63,58,38,21,20
 Oda Erina,AKB48,C,F,,56,66,67,69,64,-,-,-
 Sato Minami,AKB48,D,F,,57,67,66,59,58,39,-,-
 Kim Suyun,Woolim,C,C,,58,52,51,54,57,47,-
